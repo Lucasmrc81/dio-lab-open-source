@@ -28,6 +28,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lucasmrc81/)
 [![WatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/5511940746586)
 [![Gmail](https://shields.io/badge/meu_perfil_na_DIO-000?style=for-the-badge&logo=DIO&text_color=fff)](https://www.dio.me/users/lucasmrc81_97016)
+
 ##
 ## Tecnologias que mais uso
 
